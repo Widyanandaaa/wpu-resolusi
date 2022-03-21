@@ -1,0 +1,4 @@
+Halo pak, nama saya Azriel dari Semarang
+Resolusi saya :
+-membuat website dengan framework laravel
+-berkuliah di Universitas Diponegoro Semarang
